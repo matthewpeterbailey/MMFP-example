@@ -7,6 +7,10 @@ This simple Node.js, Express, and React app demonstrates how a configuration fil
 1. **Start the Express Server**:
 
     - Navigate to the `server` folder.
+    - Install node modules using:
+        ```
+        npm install
+        ```
     - Run the following command to start the Express server:
         ```
         npm start
@@ -15,6 +19,10 @@ This simple Node.js, Express, and React app demonstrates how a configuration fil
 2. **Run the React App**:
     - Open a new terminal.
     - Navigate to the `client/feature-flags` folder.
+    - Install node modules using:
+        ```
+        npm install
+        ```
     - Use the following commands to start the React app with the required configuration:
         - For Norway (production environment):
             ```
